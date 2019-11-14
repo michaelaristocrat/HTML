@@ -44,12 +44,12 @@ Comment something out
 Inline Elements: 
 * Do not start on a new line 
 * Take only the necessary width
-* Ie. <span>, <img>, <a> 
+* Ie. `<span>, <img>, <a> `
 
 Block elements:
 * Start on a new line 
 * Take full width available 
-* <div>, <h1>-<h6>, <p>, <form>
+* `<div>, <h1>-<h6>, <p>, <form>`
 
 Links elements are represented as <a>
 * Has attributes 
